@@ -4,3 +4,16 @@ body{
     font-family: 'Times New Roman', Times, serif;
     font-size: medium;
 }
+footer{
+ background-color:hsl(338, 64%, 70%);
+color:hsl(330, 79%, 48%);
+position: fixed;
+bottom:0;
+width: 100%;
+height: 2rem;
+} 
+footer p {
+    text-align: center;
+    font-size: 0,6rem;
+    margin-top: 0,5rem;
+}
